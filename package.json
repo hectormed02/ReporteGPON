@@ -21,7 +21,7 @@
   "license": "Proprietary",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hectormed02/ReporteGPON"
+    "url": "https://github.com/hectormed02/ReporteGPON.git"
   },
   "engines": {
     "node": "18.x"
