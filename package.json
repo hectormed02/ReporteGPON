@@ -1,0 +1,29 @@
+{
+  "name": "gpon-bbdd",
+  "version": "1.0.0",
+  "description": "Dashboard interactivo para GPON BBDD - Entel Perú",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build required - static site'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "gpon",
+    "entel",
+    "bbdd",
+    "sales",
+    "dashboard",
+    "fiber",
+    "optic"
+  ],
+  "author": "Hector - Entel Perú",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TU_USUARIO/gpon-bbdd.git"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
